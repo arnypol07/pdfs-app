@@ -56,6 +56,7 @@
   },
   {
     "nombre": "Sistema operatiu Windows",
-    "url": "https://raw.githubusercontent.com/arnypol07/pdfs-app/main/Sistema%20operatiu%20Windows.pdf"
+    "url": "https://raw.githubusercontent.com/arnypol07/pdfs-app/main/Sistema%20operatiu%20Windows.pdf",
+    "usuarios": ["admin@grandproject.com"]
   }
 ]
