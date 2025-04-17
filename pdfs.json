@@ -1,5 +1,12 @@
 [
     {
+        "nombre": "Sistema operatiu MacOS",
+        "url": "https:\/\/raw.githubusercontent.com\/arnypol07\/pdfs-app\/main\/Sistema-operatiu-MacOS.pdf",
+        "usuarios": [
+            "cliente@grandproject.com"
+        ]
+    },
+    {
         "nombre": "Primeres pases en un ordinador",
         "url": "https:\/\/raw.githubusercontent.com\/arnypol07\/pdfs-app\/main\/Primeres-pases-en-un-ordinador.pdf",
         "usuarios": [
