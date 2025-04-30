@@ -1,12 +1,5 @@
 [
     {
-        "nombre": "Eina d'ofimàtica Word de Microsoft",
-        "url": "https:\/\/raw.githubusercontent.com\/arnypol07\/pdfs-app\/main\/Eina-dofimatica-Word-de-Microsoft.pdf",
-        "usuarios": [
-            "cliente@grandproject.com"
-        ]
-    },
-    {
         "nombre": "Eina d'ofimàtica Excel de Microsoft",
         "url": "https:\/\/raw.githubusercontent.com\/arnypol07\/pdfs-app\/main\/Eina-dofimatica-Excel-de-Microsoft.pdf",
         "usuarios": [
